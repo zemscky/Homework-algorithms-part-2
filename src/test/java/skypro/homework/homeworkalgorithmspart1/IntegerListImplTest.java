@@ -107,7 +107,7 @@ public class IntegerListImplTest {
     }
 
     @Test
-    void speedTest() {
+    void speedTest()  {
         integerList.add(9);
 
         // Сортировка вставкой
